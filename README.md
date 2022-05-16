@@ -15,5 +15,5 @@
 - Potplyer (Movie & TV show)
 ## Email
 - Gmail
-- 163 Mial
+- 163 Mail
 - Outlook
