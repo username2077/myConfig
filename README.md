@@ -1,8 +1,19 @@
 # myConfig
 ## Text Editor
-- Sublime Text
-- Notion
+- Sublime Text (Code)
+- Notion (Blog)
+- Atom (Trying fig out...)
+- Vim (Hardcore)
+- Emacs (Respect)
+- Typora (Shit bcs not free)
 ## Browser
-- Google Chrome for work
-- Microsoft Edge for dayly
-- Brave for study
+- Google Chrome (Work)
+- Microsoft Edge (Dayly)
+- Brave (Study)
+## Player
+- 163 Music (Music)
+- Potplyer (Movie & TV show)
+## Email
+- Gmail
+- 163 Mial
+- Outlook
